@@ -128,4 +128,11 @@ body{
         font-size: 20px;
         text-align: center;
     }
+   
+    .apresentacao__imagem{
+        width: 100%;
+        border-radius: 8px;
+        border: double 3px;
+        color: var(--cor-terciaria);
+    }
 }
