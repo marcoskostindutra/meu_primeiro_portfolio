@@ -119,4 +119,13 @@ body{
     .apresentacao__conteudo{
         width: auto;
     }
+
+    .apresentacao__links__apresentacao{
+        width: 90%;
+    }
+
+    .apresentacao__links__subtitulo {
+        font-size: 20px;
+        text-align: center;
+    }
 }
